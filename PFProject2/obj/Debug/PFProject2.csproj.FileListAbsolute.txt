@@ -1,0 +1,6 @@
+c:\users\aech\documents\visual studio 2012\Projects\PFProject2\PFProject2\bin\Debug\PFProject2.exe.config
+c:\users\aech\documents\visual studio 2012\Projects\PFProject2\PFProject2\bin\Debug\PFProject2.exe
+c:\users\aech\documents\visual studio 2012\Projects\PFProject2\PFProject2\bin\Debug\PFProject2.pdb
+c:\users\aech\documents\visual studio 2012\Projects\PFProject2\PFProject2\obj\Debug\PFProject2.csprojResolveAssemblyReference.cache
+c:\users\aech\documents\visual studio 2012\Projects\PFProject2\PFProject2\obj\Debug\PFProject2.exe
+c:\users\aech\documents\visual studio 2012\Projects\PFProject2\PFProject2\obj\Debug\PFProject2.pdb
